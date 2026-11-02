@@ -213,4 +213,4 @@ Cryostasis is the full free version of the game, providing all features and upda
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-11-02 07:05:48 UTC
+**Last updated:** 2026-11-02 17:41:34 UTC
